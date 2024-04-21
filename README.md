@@ -1,4 +1,4 @@
-# To-Do-List
+# To-Do-List 📋✅
 
 This is my first attempt at a Python-like frontend using `tkinter`. This application allows you to add tasks to a to-do list, see your task list updated, and delete tasks once they are done. The GUI is designed with a neutral themed color to minimize eye strain.
 
